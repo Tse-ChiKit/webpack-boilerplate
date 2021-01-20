@@ -8,7 +8,7 @@
     "start": "npm run dev && webpack-dev-server  --open  --hot  --inline --mode development",
     "dev": "webpack-dev-server --config webpack.config.js",
     "dev1": "webpack-dev-server --progress --colors",
-	  "start1": "webpack && npm run dev"
+    "start1": "webpack && npm run dev"
   },
   "author": "",
   "license": "ISC",
